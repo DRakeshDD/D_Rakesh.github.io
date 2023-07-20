@@ -1,1 +1,5 @@
-# D_Rakesh.github.io
+- 👋 Hi, I’m Rakesh
+- 👀 I’m interested in Full stack development
+- 🌱 I’m currently learning java, python, javascript, reactjs etc
+- 💞️ I’m looking to collaborate on github
+- 📫 How to reach me on linkedin : https://www.linkedin.com/in/rakesh-danaboina-b97b32202
